@@ -1,0 +1,53 @@
+ЛАБОРАТОРНАЯ РАБОТА №1
+Библиотеки Python для машинного обучения
+======================================================================
+
+Датасет:       C:\Users\AKSI\Desktop\Progs\Lab1_1\data\dataset.csv
+Изображение:   C:\Users\AKSI\Desktop\Progs\Lab1_1\data\image.jpg
+Папка вывода:  C:\Users\AKSI\Desktop\Progs\Lab1_1\output
+
+Файлы результатов:
+  - dataset_2026-10-06_09-25-14.csv
+  - dataset_2026-10-06_09-25-14.mat
+  - dataset_2026-10-06_09-25-14.txt
+  - dataset_2026-10-06_09-25-14.xlsx
+  - lab_results.txt
+  - task03_scatter.png
+  - task14_series.png
+  - task15_histogram.png
+  - task17_ecdf.png
+  - task28_spectrogram.png
+  - task29_periodogram.png
+  - task30_fft.png
+  - task34_scaling_2026-10-06_09-25-15.csv
+  - task34_scaling_2026-10-06_09-25-15.mat
+  - task34_scaling_2026-10-06_09-25-15.txt
+  - task34_scaling_2026-10-06_09-25-15.xlsx
+  - task49_pca.png
+  - task50_blurred.png
+  - task50_blurred_compare.png
+  - task50_channel_b.png
+  - task50_channel_g.png
+  - task50_channel_r.png
+  - task50_channels_compare.png
+  - task50_frame.png
+  - task50_frame_compare.png
+  - task50_gray.png
+  - task50_gray_compare.png
+  - task50_gray_hist.png
+  - task50_input.png
+  - task50_noisy.png
+  - task50_noisy_compare.png
+  - task50_pca_compare.png
+  - task50_pca_components.png
+  - task50_pca_input.png
+  - task50_pca_mse.png
+  - task50_pca_restored.png
+  - task50_rotated.png
+  - task50_rotated_compare.png
+  - task50_sharpened.png
+  - task50_sharpened_compare.png
+  - task50_split3_compare.png
+  - task50_split3_dark.png
+  - task50_split3_light.png
+  - task50_split3_mid.png
